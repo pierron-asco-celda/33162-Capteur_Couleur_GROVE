@@ -6,7 +6,7 @@ Capteur Couleur GROVE [33162](https://www.pierron.fr/capteur-de-couleur-grove.ht
 <br>
 
 Caractéristiques techniques :
-- Alimentation : 3,3 à 6 V
+- Alimentation : 3.3 à 6 V
 - Dispose de 16 photodiodes avec différents filtres (4 rouges, 4 bleus, 4 verts et 4 sans filtre)
 - Température de service : -40 à +85 °C
 
@@ -30,7 +30,7 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [TCS3472](https://github.com/pierron-asco-celda/33129-Telemetre_ultrasons_GROVE/blob/main/src/Datasheet_NU40C16T-R-1.pdf)
+Ressource utilisation : [TCS3472](https://github.com/pierron-asco-celda/33162-Capteur_Couleur_GROVE/blob/main/src/Datasheet_TCS3472.pdf)
 
 # Exemple :
 ### Arduino / C++
