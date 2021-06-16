@@ -53,7 +53,7 @@ int clarte = 0;
 int temperature = 0;
 int lux = 0;
 
-Adafruit_TCS34725 capteur = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_700MS, TCS34725_GAIN_1X);
+Adafruit_TCS34725 capteur = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_700MS, TCS34725_GAIN_1X); // cf. datasheet src 
 
 void setup() {
   Serial.begin(9600);
