@@ -38,7 +38,7 @@ Ressource utilisation : [TCS3472](https://github.com/pierron-asco-celda/33162-Ca
 /*
     ** Mesure valeurs couleur RVB avec filtre module Grove **
        PIN I2C module shield GROVE
-       Moniteur série -> Baud rate 9600.
+       Moniteur série -> Baud rate 9600.*
        La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, 
        elle ne représente PAS le lumen exact ainsi que la valeur de clarté.
 */
@@ -89,5 +89,6 @@ void loop() {
 }
 ```
 ## À propos :
+<div style="text-align: justify">*Le débit en bauds est un taux de transfert de données en unités de bits par seconde (bps). Si le débit en bauds est de 9600, cela signifie que la possibilité d’envoyer des données est de 9600 bits en une seconde. 1 caractère est identique à 1 octet.</div>
 <br>
 PIERRON ASCO-CELDA (https://www.pierron.fr).
